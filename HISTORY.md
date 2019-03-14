@@ -1,7 +1,7 @@
 # vis.js history
 http://visjs.org
 
-## 2019-03-14, version X4.16.0
+## 2019-03-14, version 4.16.0
 
 ### Graph2d
 
