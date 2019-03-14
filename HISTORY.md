@@ -1,6 +1,11 @@
 # vis.js history
 http://visjs.org
 
+## 2019-03-14, version X4.16.0
+
+### Graph2d
+
+- Implemented custom labels to y-axis.
 
 ## 2016-03-08, version 4.15.1
 
